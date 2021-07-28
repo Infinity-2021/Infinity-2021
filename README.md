@@ -1,18 +1,18 @@
 - 🤩👋 Hey! We are Infinity Team from Army Kelechek of Jyldyz Academy
 - 👀 We are interested in everything related with IT sphere
-- 💥 We are currently learning A Web Developer
+- 💥 We are currently learning Web Development
 - 📫 How to reach us @infinityteam.kk@gmail.com
 - Our team members: 👱🏾‍♀️👨
 
-- 🙋 Anara  
-- 🙋 Gulzar
-- 🙋 Guldana
-- 💁 Gulmira
-- 💁 Nuraiym
-- 💁 Nurzhan
-- 🙋 Kadicha
-- 🙋 Jarkynai
-- 🙋 Jypara
+- 🙋 Anara Boronbaeva
+- 🙋 Guldana Turatova
+- 🙋 Gulzar Abdullabaeva
+- 💁 Gulmira Matiraimova
+- 💁 Nuraiym Zhyrgalbekova
+- 💁 Nurzhan Kemelova
+- 🙋 Kadicha Janybekova 
+- 🙋 Jarkynai Nuralieva
+- 🙋 Jypara Alapaeva
 
 <!---
 Infinity-2021/Infinity-2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
