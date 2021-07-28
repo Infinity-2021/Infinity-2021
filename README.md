@@ -2,7 +2,7 @@
 - 👀 We are interested in everything related with IT sphere
 - 💥 We are currently learning FrontEnd 
 - 📫 How to reach us @infinityteam.kk@gmail.com
-- 👱🏾‍♀️👨🏾‍🦱 Our team members: 
+- Our team members: 👱🏾‍♀️👨
 
 - 🙋 Anara  
 - 🙋 Gulzar
