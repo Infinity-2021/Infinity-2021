@@ -1,6 +1,6 @@
 - 🤩👋 Hey! We are Infinity Team from Army Kelechek of Jyldyz Academy
 - 👀 We are interested in everything related with IT sphere
-- 💥 We are currently learning FrontEnd 
+- 💥 We are currently learning A Web Developer
 - 📫 How to reach us @infinityteam.kk@gmail.com
 - Our team members: 👱🏾‍♀️👨
 
