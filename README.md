@@ -1,4 +1,4 @@
-- 🤩👋 Hey! We are Infinity-2021 Team from Army Kelechek of Jyldyz Academy
+- 🤩👋 Hey! We are Infinity Team from Army Kelechek of Jyldyz Academy
 - 👀 We are interested in everything related with IT sphere
 - 💥 We are currently learning FrontEnd 
 - 📫 How to reach us @infinityteam.kk@gmail.com
